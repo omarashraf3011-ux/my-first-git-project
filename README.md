@@ -1,4 +1,3 @@
-README.md
 # My First Git Project – Debugging & Restoring Changes
 
 Hello Konecta Team 👋,  
